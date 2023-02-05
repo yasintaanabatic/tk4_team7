@@ -1,0 +1,40 @@
+{
+  "mahasiswas": [
+    {
+      "nim": "123",
+      "nama": "yasinta",
+      "alamat": "alamat 1",
+      "jeniskelamin": "p",
+      "hobi": "nonton kdrama",
+      "komentar": "comment 1",
+      "id": "1"
+    },
+    {
+      "nim": "321",
+      "nama": "mark",
+      "alamat": "alamat 2",
+      "jeniskelamin": "l",
+      "hobi": "hoby 2",
+      "komentar": "comment 2",
+      "id": "2"
+    },
+    {
+      "nim": "456",
+      "nama": "justin",
+      "alamat": "alamat 3",
+      "jeniskelamin": "l",
+      "hobi": "hoby 3",
+      "komentar": "comment 3",
+      "id": "3"
+    },
+    {
+      "id": "b491c6afc66",
+      "nim": "12312",
+      "nama": "yasinta",
+      "alamat": "tes",
+      "jeniskelamin": "p",
+      "hobi": "tes",
+      "komentar": "tes"
+    }
+  ]
+}
